@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp08/ex01/Span.cpp
+climits
+-
+complex
+-
+Span.hpp
+/home/elena/CLionProjects/cpp08/ex01/Span.hpp
+
+/home/elena/CLionProjects/cpp08/ex01/Span.hpp
+set
+-
+limits
+-
+
+/home/elena/CLionProjects/cpp08/ex01/main.cpp
+iostream
+-
+algorithm
+-
+Span.hpp
+/home/elena/CLionProjects/cpp08/ex01/Span.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ex03.dir/main.cpp.o CMakeFiles/ex03.dir/Weapon.cpp.o CMakeFiles/ex03.dir/HumanA.cpp.o CMakeFiles/ex03.dir/HumanB.cpp.o -o ex03 

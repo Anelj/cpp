@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp06/ex02/A.hpp
+Base.hpp
+/home/elena/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/elena/CLionProjects/cpp06/ex02/B.hpp
+Base.hpp
+/home/elena/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/elena/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/elena/CLionProjects/cpp06/ex02/C.hpp
+Base.hpp
+/home/elena/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/elena/CLionProjects/cpp06/ex02/main.cpp
+iostream
+-
+cstdlib
+-
+A.hpp
+/home/elena/CLionProjects/cpp06/ex02/A.hpp
+B.hpp
+/home/elena/CLionProjects/cpp06/ex02/B.hpp
+C.hpp
+/home/elena/CLionProjects/cpp06/ex02/C.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ex00.dir/main.cpp.o CMakeFiles/ex00.dir/ClapTrap.cpp.o -o ex00 

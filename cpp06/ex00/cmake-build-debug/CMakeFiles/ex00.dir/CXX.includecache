@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp06/ex00/main.cpp
+iostream
+-
+cstdlib
+-
+sstream
+-
+cstring
+-
+strInfo.h
+/home/elena/CLionProjects/cpp06/ex00/strInfo.h
+limits
+-
+iomanip
+-
+cmath
+-
+
+/home/elena/CLionProjects/cpp06/ex00/strInfo.h
+

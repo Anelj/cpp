@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp03/ex02/ClapTrap.hpp
+iostream
+-
+
+/home/elena/CLionProjects/cpp03/ex02/FragTrap.cpp
+FragTrap.hpp
+/home/elena/CLionProjects/cpp03/ex02/FragTrap.hpp
+
+/home/elena/CLionProjects/cpp03/ex02/FragTrap.hpp
+ClapTrap.hpp
+/home/elena/CLionProjects/cpp03/ex02/ClapTrap.hpp
+

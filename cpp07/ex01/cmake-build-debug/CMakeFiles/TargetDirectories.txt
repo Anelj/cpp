@@ -1,0 +1,3 @@
+/home/elena/CLionProjects/cpp07/ex01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elena/CLionProjects/cpp07/ex01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elena/CLionProjects/cpp07/ex01/cmake-build-debug/CMakeFiles/ex01.dir

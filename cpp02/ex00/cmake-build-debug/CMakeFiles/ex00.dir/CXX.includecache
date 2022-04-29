@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp02/ex00/Fixed.cpp
+Fixed.hpp
+/home/elena/CLionProjects/cpp02/ex00/Fixed.hpp
+
+/home/elena/CLionProjects/cpp02/ex00/Fixed.hpp
+iostream
+-
+

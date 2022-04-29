@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ex03.dir/main.cpp.o CMakeFiles/ex03.dir/Point.cpp.o CMakeFiles/ex03.dir/bsp.cpp.o CMakeFiles/ex03.dir/Fixed.cpp.o -o ex03 

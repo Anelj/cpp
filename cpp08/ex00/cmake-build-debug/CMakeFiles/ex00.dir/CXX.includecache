@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp08/ex00/easyfind.h
+vector
+-
+
+/home/elena/CLionProjects/cpp08/ex00/main.cpp
+iostream
+-
+easyfind.h
+/home/elena/CLionProjects/cpp08/ex00/easyfind.h
+vector
+-
+list
+-
+deque
+-
+

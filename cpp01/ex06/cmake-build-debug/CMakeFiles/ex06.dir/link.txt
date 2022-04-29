@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ex06.dir/main.cpp.o CMakeFiles/ex06.dir/Karen.cpp.o -o ex06 

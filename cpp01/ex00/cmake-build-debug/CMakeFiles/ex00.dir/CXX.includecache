@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp01/ex00/Zombie.cpp
+Zombie.hpp
+/home/elena/CLionProjects/cpp01/ex00/Zombie.hpp
+
+/home/elena/CLionProjects/cpp01/ex00/Zombie.hpp
+iostream
+-
+
+/home/elena/CLionProjects/cpp01/ex00/main.cpp
+iostream
+-
+Zombie.hpp
+/home/elena/CLionProjects/cpp01/ex00/Zombie.hpp
+
+/home/elena/CLionProjects/cpp01/ex00/newZombie.cpp
+Zombie.hpp
+/home/elena/CLionProjects/cpp01/ex00/Zombie.hpp
+
+/home/elena/CLionProjects/cpp01/ex00/randomChump.cpp
+Zombie.hpp
+/home/elena/CLionProjects/cpp01/ex00/Zombie.hpp
+

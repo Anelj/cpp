@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elena/CLionProjects/cpp01/ex03/HumanA.cpp
+HumanA.hpp
+/home/elena/CLionProjects/cpp01/ex03/HumanA.hpp
+
+/home/elena/CLionProjects/cpp01/ex03/HumanA.hpp
+iostream
+-
+Weapon.hpp
+/home/elena/CLionProjects/cpp01/ex03/Weapon.hpp
+
+/home/elena/CLionProjects/cpp01/ex03/HumanB.cpp
+HumanB.hpp
+/home/elena/CLionProjects/cpp01/ex03/HumanB.hpp
+
+/home/elena/CLionProjects/cpp01/ex03/HumanB.hpp
+iostream
+-
+Weapon.hpp
+/home/elena/CLionProjects/cpp01/ex03/Weapon.hpp
+
+/home/elena/CLionProjects/cpp01/ex03/Weapon.cpp
+Weapon.hpp
+/home/elena/CLionProjects/cpp01/ex03/Weapon.hpp
+
+/home/elena/CLionProjects/cpp01/ex03/Weapon.hpp
+string
+-
+
+/home/elena/CLionProjects/cpp01/ex03/main.cpp
+HumanA.hpp
+/home/elena/CLionProjects/cpp01/ex03/HumanA.hpp
+HumanB.hpp
+/home/elena/CLionProjects/cpp01/ex03/HumanB.hpp
+
